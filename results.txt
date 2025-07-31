@@ -1,0 +1,88 @@
+Veri Kumesi: FAF
+Aritmetik Ortalama: 1.0103126480341096
+Medyan: 1.0
+Mod: 0.0
+Degisim Araligi: 3.0
+Varyans: 0.7235427458067728
+Standart Sapma: 0.8506131587312606
+Degisim Katsayisi: 0.8419306245313309
+Ceyrekler Acikligi: 1.5499999999999998
+Ortalama Mutlak Sapma: 0.694789966880755
+
+Veri Kumesi: Age
+Aritmetik Ortalama: 22.996924654023577
+Medyan: 22
+Mod: 21
+Degisim Araligi: 21
+Varyans: 19.180503357909814
+Standart Sapma: 4.3795551552537635
+Degisim Katsayisi: 0.19044090551853463
+Ceyrekler Acikligi: 6
+Ortalama Mutlak Sapma: 3.4739723954465807
+
+Veri Kumesi: Height
+Aritmetik Ortalama: 1.7016200852676475
+Medyan: 1.7
+Mod: 1.7
+Degisim Araligi: 0.53
+Varyans: 0.008717658439992735
+Standart Sapma: 0.09336840172131435
+Degisim Katsayisi: 0.054870298329035325
+Ceyrekler Acikligi: 0.14000000000000012
+Ortalama Mutlak Sapma: 0.07717767189571811
+
+Veri Kumesi: Weight
+Aritmetik Ortalama: 86.54508056872055
+Medyan: 83.0
+Mod: 80.0
+Degisim Araligi: 126.06
+Varyans: 682.759870240068
+Standart Sapma: 26.129674131915003
+Degisim Katsayisi: 0.301919808268789
+Ceyrekler Acikligi: 42.06
+Ortalama Mutlak Sapma: 21.859463605938856
+
+Veri Kumesi: TUE
+Aritmetik Ortalama: 0.6578612032212221
+Medyan: 0.625
+Mod: 0.0
+Degisim Araligi: 2.0
+Varyans: 0.370791133806889
+Standart Sapma: 0.6089262137622989
+Degisim Katsayisi: 0.9256150245381356
+Ceyrekler Acikligi: 1.0
+Ortalama Mutlak Sapma: 0.5142588978666517
+
+Veri Kumesi: FAF.1
+Aritmetik Ortalama: 1.0103126480341096
+Medyan: 1.0
+Mod: 0.0
+Degisim Araligi: 3.0
+Varyans: 0.7235427458067728
+Standart Sapma: 0.8506131587312606
+Degisim Katsayisi: 0.8419306245313309
+Ceyrekler Acikligi: 1.5499999999999998
+Ortalama Mutlak Sapma: 0.694789966880755
+
+Veri Kumesi: FCVC
+Aritmetik Ortalama: 2.4189862624348653
+Medyan: 2.39
+Mod: 3.0
+Degisim Araligi: 2.0
+Varyans: 0.28515167327090196
+Standart Sapma: 0.5339959487401584
+Degisim Katsayisi: 0.22075195590513902
+Ceyrekler Acikligi: 1.0
+Ortalama Mutlak Sapma: 0.47904620874484016
+
+Veri Kumesi: NCP
+Aritmetik Ortalama: 2.964487263226645
+Medyan: 3.0
+Mod: 3.0
+Degisim Araligi: 1.3399999999999999
+Varyans: 0.026825145425904168
+Standart Sapma: 0.16378383749901626
+Degisim Katsayisi: 0.05524862242813233
+Ceyrekler Acikligi: 0.33999999999999986
+Ortalama Mutlak Sapma: 0.08612656951203808
+
