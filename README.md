@@ -4,7 +4,6 @@
 > Exploratory data analysis of a health/lifestyle dataset.  
 > Computes descriptive statistics (mean, median, mode, variance, etc.) and produces boxplots for key variables such as Age, Height, Weight, FAF, TUE, FCVC, and NCP.
 
-![Boxplot](boxplot.png)
 
 ## Overview
 This project performs a concise exploratory data analysis (EDA) on a health/lifestyle dataset.  
